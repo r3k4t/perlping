@@ -18,7 +18,7 @@ PerlPing is a  ip ping tool.Its build on perl program.
 
 + git clone https://github.com/r3k4t/perlping.git
 + cd perlping
-+ perl perlping.pl 
++  sudo perl perlping.pl 
 
 ### Screentshot ###
 
